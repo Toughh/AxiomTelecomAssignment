@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testcases">
+  <test name="Axiom Telecom Assignment TC">
+      <classes>
+      <class name="testcases.TC_Scenario1"/>
+      <class name="testcases.TC_Scenario2"/>
+      </classes>
+  </test> <!-- Test --> 
+</suite> <!-- Suite -->
